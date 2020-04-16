@@ -28,7 +28,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "node_modules/ag-grid-community/src/styles/ag-grid.scss",
+              "node_modules/ag-grid-community/src/styles/ag-theme-balham/sass/ag-theme-balham.scss"
             ],
             "scripts": []
           },
